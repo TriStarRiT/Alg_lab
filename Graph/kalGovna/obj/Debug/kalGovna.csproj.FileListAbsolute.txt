@@ -1,0 +1,14 @@
+D:\Git_Store\ASD_labs\kalGovna\kalGovna\bin\Debug\kalGovna.exe.config
+D:\Git_Store\ASD_labs\kalGovna\kalGovna\bin\Debug\kalGovna.exe
+D:\Git_Store\ASD_labs\kalGovna\kalGovna\bin\Debug\kalGovna.pdb
+D:\Git_Store\ASD_labs\kalGovna\kalGovna\obj\Debug\kalGovna.csprojAssemblyReference.cache
+D:\Git_Store\ASD_labs\kalGovna\kalGovna\obj\Debug\kalGovna.csproj.CoreCompileInputs.cache
+D:\Git_Store\ASD_labs\kalGovna\kalGovna\obj\Debug\kalGovna.exe
+D:\Git_Store\ASD_labs\kalGovna\kalGovna\obj\Debug\kalGovna.pdb
+F:\Graph\kalGovna\bin\Debug\kalGovna.exe.config
+F:\Graph\kalGovna\bin\Debug\kalGovna.exe
+F:\Graph\kalGovna\bin\Debug\kalGovna.pdb
+F:\Graph\kalGovna\obj\Debug\kalGovna.csprojAssemblyReference.cache
+F:\Graph\kalGovna\obj\Debug\kalGovna.csproj.CoreCompileInputs.cache
+F:\Graph\kalGovna\obj\Debug\kalGovna.exe
+F:\Graph\kalGovna\obj\Debug\kalGovna.pdb

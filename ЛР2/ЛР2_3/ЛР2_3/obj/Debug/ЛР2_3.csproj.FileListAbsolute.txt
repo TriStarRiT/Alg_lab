@@ -1,0 +1,11 @@
+C:\ЛР\ЛР2_3\ЛР2_3\bin\Debug\ЛР2_3.exe.config
+C:\ЛР\ЛР2_3\ЛР2_3\bin\Debug\ЛР2_3.exe
+C:\ЛР\ЛР2_3\ЛР2_3\bin\Debug\ЛР2_3.pdb
+C:\ЛР\ЛР2_3\ЛР2_3\obj\Debug\ЛР2_3.csproj.AssemblyReference.cache
+C:\ЛР\ЛР2_3\ЛР2_3\obj\Debug\ЛР2_3.Form1.resources
+C:\ЛР\ЛР2_3\ЛР2_3\obj\Debug\ЛР2_3.Form2.resources
+C:\ЛР\ЛР2_3\ЛР2_3\obj\Debug\ЛР2_3.Properties.Resources.resources
+C:\ЛР\ЛР2_3\ЛР2_3\obj\Debug\ЛР2_3.csproj.GenerateResource.cache
+C:\ЛР\ЛР2_3\ЛР2_3\obj\Debug\ЛР2_3.csproj.CoreCompileInputs.cache
+C:\ЛР\ЛР2_3\ЛР2_3\obj\Debug\ЛР2_3.exe
+C:\ЛР\ЛР2_3\ЛР2_3\obj\Debug\ЛР2_3.pdb
